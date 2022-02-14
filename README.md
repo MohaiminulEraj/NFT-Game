@@ -1,4 +1,7 @@
 # **NFT-GAME**
+## **PROJECT DEMO**
+![](client/public/img/NFT-GAME-DEMO.gif)
+<!-- ![](https://im5.ezgif.com/tmp/ezgif-5-e832f778e2.gif) -->
 ## **HOW TO SETUP**
 #### 1. Download this code, and from command prompt run:
 
